@@ -1,7 +1,7 @@
 {
 	"name": "@ktarmyshov/typesafe-utilities",
 	"description": "Type-safe utilities for working in TypeScript. For example, a type-safe property path type, deep partial type, etc.",
-	"version": "0.3.1",
+	"version": "0.3.2",
 	"license": "MIT",
 	"author": {
 		"name": "Konstantin Tarmyshov",
