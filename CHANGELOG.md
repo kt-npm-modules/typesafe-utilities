@@ -1,5 +1,21 @@
 # @ktarmyshov/typesafe-utilities
 
+## 0.3.3
+
+### Patch Changes
+
+- eba41ed: dependabot: directory '/', update @eslint/compat
+- eba41ed: dependabot: directory '/', update @types/node
+- eba41ed: dependabot: directory '/', update eslint
+- eba41ed: dependabot: directory '/', update typescript-eslint
+- eba41ed: dependabot: directory '/', update typescript
+- b327592: dependabot: directory '/', update @changesets/cli
+- b327592: dependabot: directory '/', update @types/node
+- b327592: dependabot: directory '/', update typescript-eslint
+- 438280d: dependabot: directory '/', update eslint
+- 438280d: dependabot: directory '/', update typescript-eslint
+- c9a3383: dependabot: directory '/', update typescript-eslint
+
 ## 0.3.2
 
 ### Patch Changes
