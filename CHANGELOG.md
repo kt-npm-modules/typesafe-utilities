@@ -1,5 +1,21 @@
 # @ktarmyshov/typesafe-utilities
 
+## 0.3.4
+
+### Patch Changes
+
+- f5068d3: dependabot: directory '/', update @types/node
+- f5068d3: dependabot: directory '/', update eslint
+- f5068d3: dependabot: directory '/', update typescript-eslint
+- 6812b30: dependabot: directory '/', update @changesets/cli
+- 6812b30: dependabot: directory '/', update @types/node
+- 6812b30: dependabot: directory '/', update eslint
+- 6812b30: dependabot: directory '/', update publint
+- 6812b30: dependabot: directory '/', update type-fest
+- 6812b30: dependabot: directory '/', update typescript-eslint
+- ca95803: dependabot: directory '/', update @eslint/compat
+- ca95803: dependabot: directory '/', update typescript-eslint
+
 ## 0.3.3
 
 ### Patch Changes
