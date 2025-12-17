@@ -1,5 +1,52 @@
 # @ktarmyshov/typesafe-utilities
 
+## 0.3.6
+
+### Patch Changes
+
+- be6dd45: dependabot: directory '/', update @eslint/compat
+- be6dd45: dependabot: directory '/', update @types/node
+- be6dd45: dependabot: directory '/', update eslint
+- be6dd45: dependabot: directory '/', update rimraf
+- b004612: dependabot: directory '/', update eslint
+- b004612: dependabot: directory '/', update type-fest
+- b004612: dependabot: directory '/', update typescript-eslint
+
+## 0.3.5
+
+### Patch Changes
+
+- 2e6b111: dependabot: directory '/', update @types/node
+- 2e6b111: dependabot: directory '/', update eslint
+- 2e6b111: dependabot: directory '/', update typescript-eslint
+- 2e6b111: dependabot: directory '/', update typescript
+- 3dede85: dependabot: directory '/', update @types/node
+- 3dede85: dependabot: directory '/', update publint
+- 3dede85: dependabot: directory '/', update typescript-eslint
+- 850d9c0: dependabot: directory '/', update @types/node
+- 850d9c0: dependabot: directory '/', update eslint
+- 850d9c0: dependabot: directory '/', update type-fest
+- 850d9c0: dependabot: directory '/', update typescript-eslint
+- a9c71a1: dependabot: directory '/', update @types/node
+- a9c71a1: dependabot: directory '/', update publint
+- a9c71a1: dependabot: directory '/', update typescript-eslint
+
+## 0.3.4
+
+### Patch Changes
+
+- f5068d3: dependabot: directory '/', update @types/node
+- f5068d3: dependabot: directory '/', update eslint
+- f5068d3: dependabot: directory '/', update typescript-eslint
+- 6812b30: dependabot: directory '/', update @changesets/cli
+- 6812b30: dependabot: directory '/', update @types/node
+- 6812b30: dependabot: directory '/', update eslint
+- 6812b30: dependabot: directory '/', update publint
+- 6812b30: dependabot: directory '/', update type-fest
+- 6812b30: dependabot: directory '/', update typescript-eslint
+- ca95803: dependabot: directory '/', update @eslint/compat
+- ca95803: dependabot: directory '/', update typescript-eslint
+
 ## 0.3.3
 
 ### Patch Changes
