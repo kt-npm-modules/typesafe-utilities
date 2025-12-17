@@ -35,7 +35,7 @@
 		"check:test": "tsc --project tsconfig-test.json --skipLibCheck",
 		"test": "npm run check:test",
 		"coverage": "echo 'No tests for now' && exit 0",
-		"changeset:version": "changeset version && git add --all",
+		"changeset:version": "changeset version && npm install && git add --all",
 		"changeset:publish": "changeset publish"
 	},
 	"files": [
