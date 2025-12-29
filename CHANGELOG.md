@@ -1,5 +1,11 @@
 # @ktarmyshov/typesafe-utilities
 
+## 0.3.8
+
+### Patch Changes
+
+- d015845: dependabot: directory '/', update typescript-eslint
+
 ## 0.3.7
 
 ### Patch Changes
