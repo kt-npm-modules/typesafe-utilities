@@ -11,13 +11,25 @@ updates:
       interval: 'weekly'
       time: '03:33'
       timezone: 'Europe/Berlin'
+
     ignore:
       - dependency-name: 'npm'
         versions: ['<10.0.0', '>=11.0.0']
+
     groups:
-      all:
+      minor-and-patch:
         patterns:
           - '*'
+        update-types:
+          - 'minor'
+          - 'patch'
+
+      major:
+        patterns:
+          - '*'
+        update-types:
+          - 'major'
+
     commit-message:
       prefix: 'dependabot'
       prefix-development: 'dependabot'
