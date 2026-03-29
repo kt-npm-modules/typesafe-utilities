@@ -97,6 +97,7 @@ jobs:
           cache-reset: ${{ needs.config.outputs.cache-reset }}
 
   test:
+    needs: config
     runs-on: ubuntu-latest
     strategy:
       matrix:
