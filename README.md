@@ -22,7 +22,7 @@ Difference to `type-fest`:
 - Somewhat better auto-complete for nested arrays of objects
 
 ```typescript
-/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable @typescript-eslint/no-unused-vars  */
 import { PropertyPaths } from '../src/paths';
 
 type TestType = {
