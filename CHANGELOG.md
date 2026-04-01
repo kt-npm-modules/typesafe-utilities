@@ -1,5 +1,19 @@
 # @ktarmyshov/typesafe-utilities
 
+## 0.3.11
+
+### Patch Changes
+
+- bc2c7f3: dependabot: directory '/', update @changesets/cli from 2.29.8 to 2.30.0
+- bc2c7f3: dependabot: directory '/', update @eslint/compat from 2.0.2 to 2.0.3
+- bc2c7f3: dependabot: directory '/', update @types/node from 25.2.0 to 25.5.0
+- bc2c7f3: dependabot: directory '/', update publint from 0.3.17 to 0.3.18
+- bc2c7f3: dependabot: directory '/', update rimraf from 6.1.2 to 6.1.3
+- bc2c7f3: dependabot: directory '/', update type-fest from 5.4.3 to 5.5.0
+- bc2c7f3: dependabot: directory '/', update typescript-eslint from 8.54.0 to 8.57.2
+- bc44aee: dependabot: directory '/', update eslint from 9.39.2 to 10.1.0
+- 3cbe021: dependabot: directory '/', update typescript-eslint from 8.57.2 to 8.58.0
+
 ## 0.3.10
 
 ### Patch Changes

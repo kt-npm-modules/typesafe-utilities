@@ -1,5 +1,0 @@
----
-'@ktarmyshov/typesafe-utilities': patch
----
-
-dependabot: directory '/', update @types/node from 25.2.0 to 25.5.0
