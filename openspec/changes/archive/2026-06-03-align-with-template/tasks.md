@@ -80,4 +80,4 @@
   - Authored at `.changeset/align-with-template.md` (`npx changeset` is interactive; created manually).
 - [x] 8.2 Stage all changes; verify `git status` matches expectations (no stray `dist/` files committed)
   - Working tree reviewed via `git status --short`. Modifications limited to: tsconfigs, package.json/lock, `tests/*.spec.ts` (renames), `tsconfig.base.json`/`vitest.config.ts` (new), `scripts/*` (new+modified), `.gitignore` (`coverage*`), changeset, and openspec artifacts. **`dist/` is not committed (gitignored).** Side-effect: `.claude/commands/opsx/*.md` and `.claude/skills/*/SKILL.md` were re-formatted by `npm run format`; not part of this change semantically — leave for the user to decide whether to commit them with the change or separately.
-- [ ] 8.3 Open the PR against `main`; ensure CI is green before merge — **awaiting user authorization** (push + `gh pr create` are outward-facing).
+- [x] 8.3 Open the PR against `main`; ensure CI is green before merge — opened as [#93](https://github.com/kt-npm-modules/typesafe-utilities/pull/93). CI must be reviewed before merge.
