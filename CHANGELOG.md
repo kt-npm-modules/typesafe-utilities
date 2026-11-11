@@ -1,5 +1,12 @@
 # @ktarmyshov/typesafe-utilities
 
+## 1.0.6
+
+### Patch Changes
+
+- ee0a719: dependabot: dependency updates for PR #129
+- a53d6b4: dependabot: dependency updates for PR #131
+
 ## 1.0.5
 
 ### Patch Changes
